@@ -1,79 +1,20 @@
 {
     "info": {
         "title": "Win32/Win64 OpenSSL Installer Hashes",
-        "description": "Latest file hashes for Win32/Win64 OpenSSL installers.",
-        "source": "https://github.com/slproweb/opensslhashes/",
-        "alt_source": "https://github.com/slproweb/opensslhashes/raw/master/win32_openssl_hashes.json",
-        "website": "https://slproweb.com/products/Win32OpenSSL.html"
-    },
-    "files": {
-        "Win32OpenSSL-1_1_1u.exe": {
-            "basever": "1.1.1",
-            "subver": "u",
-            "arch": "INTEL",
-            "bits": 32,
-            "light": false,
+        "description": "Latest file hashes for 42a9ce5a0",
+            se,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win32OpenSSL-1_1_1u.exe",
-            "size": 58050604,
-            "md5": "7dfc3d91db9d5346e86ef4c42a9ce5a0",
-            "sha1": "cc315839422bfab227f80b9beccd5ad453179061",
-            "sha256": "cc772b3142adfb6e5d2542822fca768901d3d10780e859d208d9b52ce0c413c3",
-            "sha512": "cbdb54d210f0035759b90ac94c771debfdf648d0e0938219c55a889f845f9d42de9f80d086f6e93adfcb4984c927b1767374596dacff53a758e2fe28ecbb25ba"
-        },
-        "Win32OpenSSL-1_1_1u.msi": {
-            "basever": "1.1.1",
-            "subver": "u",
-            "arch": "INTEL",
-            "bits": 32,
-            "light": false,
-            "installer": "msi",
-            "url": "https://slproweb.com/download/Win32OpenSSL-1_1_1u.msi",
-            "size": 58130432,
-            "md5": "e2282c5afd1798bd706854b78c70aa22",
-            "sha1": "3904c60bc98877eb4b514f412b3ddabcc042c266",
-            "sha256": "8458e87f7e5a3dc99843b06baf62f0e12455cb0c01bdc59df6207ee80c73f644",
-            "sha512": "04503e8aeb007a113dc6ab401c876d3caadfa0355b4a6635b7c5b81bf66f147602e830a0a40f09f227ee81b818a1f9c73cb0a7b2e75e1137fbb152b6e96a94eb"
-        },
-        "Win32OpenSSL-3_0_9.exe": {
-            "basever": "3.0.9",
-            "subver": "",
-            "arch": "INTEL",
-            "bits": 32,
-            "light": false,
-            "installer": "exe",
-            "url": "https://slproweb.com/download/Win32OpenSSL-3_0_9.exe",
-            "size": 125885505,
-            "md5": "5c84f24a53dd2d72f4bbcdd1e5dd266b",
-            "sha1": "33b1abeca9790d0459021cc74db79427e1e99c89",
-            "sha256": "120485f251d8e839300e692539090dd03a74e80d11669ab31a158da8fb55f042",
-            "sha512": "d580e0bc42a31247018a1738dfcd9b32217497a4ae46a872b91fed706bbdd0e22a8d0b7cfc9d016a9eebb04d6d40469d185d552890da78e8f922b030dc6edaf3"
-        },
-        "Win32OpenSSL-3_0_9.msi": {
-            "basever": "3.0.9",
-            "subver": "",
-            "arch": "INTEL",
+            INTEL",
             "bits": 32,
             "light": false,
             "installer": "msi",
             "url": "https://slproweb.com/download/Win32OpenSSL-3_0_9.msi",
-            "size": 126013440,
-            "md5": "db67db13cd675fc2687f2f7b0d77d30b",
-            "sha1": "1a8c0cf88c49a152adaadda3c8066cdb57641c5d",
-            "sha256": "330e8472d227d8c4b475323aaf6aeffa1ba6bb8b7e5f9c6c7e82c87c2b8be04d",
-            "sha512": "d746515c6ad902c0d0a68508b999f276472498669049af928079c84c2442c9f2ec71682108b9ed4179da8cdd44d202d325b0015af372c17c51b937dd956d16ac"
-        },
-        "Win32OpenSSL-3_1_1.exe": {
+            exe": {
             "basever": "3.1.1",
             "subver": "",
             "arch": "INTEL",
             "bits": 32,
-            "light": false,
-            "installer": "exe",
-            "url": "https://slproweb.com/download/Win32OpenSSL-3_1_1.exe",
-            "size": 127668006,
-            "md5": "ade84dcccf80eda619933c6a6543ffd2",
-            "sha1": "bc920a5b4022718369af78617551741ced6ff8f4",
+            "light": 
             "sha256": "f2e51490041012d796551ee23546613d89b6b57a2880726a56235ce147326d51",
             "sha512": "738790c2b0bf87e63389ae70d784b51358e377a45ac396d5fbdf45dda1efd484978bc84e6962e74836ad0838b2b87cadfe890013561938c496157a6264b2fe08"
         },
